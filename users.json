@@ -1,0 +1,22 @@
+{
+  "admin": {
+    "password": "admin123",
+    "rol": "admin"
+  },
+  "usuario1": {
+    "password": "123",
+    "rol": "user"
+  },
+  "usuario2": {
+    "password": "123",
+    "rol": "user"
+  },
+  "Rodrigo": {
+    "password": "Hola",
+    "rol": "admin"
+  },
+  "Gabriel": {
+    "password": "e633f4fc79badea1dc5db970cf397c8248bac47cc3acf9915ba60b5d76b0e88f",
+    "rol": "admin"
+  }
+}
