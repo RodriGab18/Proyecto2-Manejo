@@ -1,0 +1,38 @@
+[
+  {
+    "nombreArchivo": "Archivo 1",
+    "archivoDatosInicial": "data_blocks/archivo_1_block_0.json",
+    "enPapelera": false,
+    "totalCaracteres": 12,
+    "fechaCreacion": "2025-10-22 11:10:47.063188",
+    "fechaModificacion": "2025-10-22 11:11:30.109810",
+    "fechaEliminacion": null,
+    "owner": "admin",
+    "permisos": {
+      "lectura": [
+        "admin"
+      ],
+      "escritura": [
+        "admin"
+      ]
+    }
+  },
+  {
+    "nombreArchivo": "Archivo 2",
+    "archivoDatosInicial": "data_blocks/archivo_2_block_0.json",
+    "enPapelera": false,
+    "totalCaracteres": 12,
+    "fechaCreacion": "2025-10-22 11:12:20.668905",
+    "fechaModificacion": "2025-10-22 11:13:22.560687",
+    "fechaEliminacion": null,
+    "owner": "admin",
+    "permisos": {
+      "lectura": [
+        "admin"
+      ],
+      "escritura": [
+        "admin"
+      ]
+    }
+  }
+]
